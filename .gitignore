@@ -1,2 +1,4 @@
-venv
+venv_env
+migrations
+__pyache__
 .env
